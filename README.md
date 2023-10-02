@@ -4,4 +4,3 @@ Oi, sou Josiane, estudante de tecnologia do IFCE Campus Tauá. Estou atualmente 
 
 - ✨Minha matéria favorita do curso é Web Design✨.
 - Tenho inglês intermediário🇺🇸.
--
